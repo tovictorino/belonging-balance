@@ -1,6 +1,6 @@
 # GTRE_ZH: persistent and transient inefficiency with determinants on both margins
 
-R code for the four-component stochastic frontier used in *Belonging Has a Balance Sheet: System Affiliation, Output Definition, and Efficiency in Credit Cooperatives* (Victorino, submitted to the *Journal of Productivity Analysis*).
+R code for the four-component stochastic frontier used in *Belonging Has a Balance Sheet*.
 
 | File | Content |
 |---|---|
